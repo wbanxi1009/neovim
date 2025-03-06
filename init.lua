@@ -1,0 +1,2 @@
+require("banxi")
+print("hello")
